@@ -1,0 +1,41 @@
+.area {
+    /* fill: none;
+    stroke: #263028;
+    stroke-width: 4px;
+    cursor: pointer;
+    pointer-events: all; */
+
+    fill: white;
+    fill-opacity: 1;
+    stroke: #ffffff;
+    stroke-width: 0.50650516;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 4;
+    stroke-dasharray: none;
+}
+
+.area:hover {
+    animation: higlightArea 2s linear infinite;
+    fill: #949E83;
+    fill-opacity: 1;
+    cursor: pointer;
+    stroke: #e1e5ec;
+}
+
+/* @keyframes higlightArea {
+    0% {
+        stroke: #263028;
+        stroke-width: 10px;
+    }
+
+    50% {
+        stroke: #7aacab;
+        stroke-width: 10px;
+    }
+
+    100% {
+        stroke: #263028;
+        stroke-width: 10px;
+    }
+} */

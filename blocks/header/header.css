@@ -1,0 +1,8 @@
+.header {
+    margin: 0 auto;
+    padding-bottom: 92px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+
+}
