@@ -17,3 +17,10 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
+
+@import url(../blocks/popup__bg/popup__bg.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__photo/popup__photo.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__text/popup__text.css);
