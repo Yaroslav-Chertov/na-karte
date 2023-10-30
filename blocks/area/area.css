@@ -1,10 +1,4 @@
 .area {
-    /* fill: none;
-    stroke: #263028;
-    stroke-width: 4px;
-    cursor: pointer;
-    pointer-events: all; */
-
     fill: white;
     fill-opacity: 1;
     stroke: #ffffff;
@@ -22,20 +16,3 @@
     cursor: pointer;
     stroke: #e1e5ec;
 }
-
-/* @keyframes higlightArea {
-    0% {
-        stroke: #263028;
-        stroke-width: 10px;
-    }
-
-    50% {
-        stroke: #7aacab;
-        stroke-width: 10px;
-    }
-
-    100% {
-        stroke: #263028;
-        stroke-width: 10px;
-    }
-} */
